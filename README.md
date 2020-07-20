@@ -12,6 +12,7 @@ To do optimization
 
 =======================================================================================
 deer.png
+
 segment parameters
 k=50
 minsize 2000
@@ -29,6 +30,7 @@ output region 15
 
 
 lena.png
+
 segment parameters
 k=50
 minsize 1000
