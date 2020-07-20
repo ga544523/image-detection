@@ -9,6 +9,8 @@ minsize 20000
 maxsize (height*width)/2)
 random 1000
 output region 25
+
+
 ![image](https://github.com/ga544523/image-detection/blob/master/detection1.PNG?raw=true)
 
 
@@ -24,6 +26,8 @@ minsize 500
 maxsize (height*width)/2)
 random 1000
 output region 10
+
+
 ![image](https://github.com/ga544523/image-detection/blob/master/detection2.PNG?raw=true)
 
 
@@ -40,6 +44,8 @@ minsize 500
 maxsize (height*width)/2)
 random 1000
 output region 15
+
+
 ![image](https://github.com/ga544523/image-detection/blob/master/detection3.PNG?raw=true)
 
 touhou.png
@@ -50,4 +56,6 @@ minsize 2000
 maxsize (height*width)/2)
 random 10 
 output region 10
+
+
 ![image](https://github.com/ga544523/image-detection/blob/master/detection4.PNG?raw=true)
