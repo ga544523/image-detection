@@ -10,7 +10,7 @@ To do optimization
 
 2.remove from main function
 
-
+==================================================================================================
 deer.png
 segment parameter
 k=50
