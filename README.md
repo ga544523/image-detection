@@ -1,3 +1,11 @@
+Most of my ideas reference from J. R. R. Uijlings et al., Selective Search for Object Recognition, IJCV, 2013
+
+
+To do optimization
+1.neighboring region preprocess
+2.remove from main function
+
+
 deer.png
 segment parameter
 k=50
