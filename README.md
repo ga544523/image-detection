@@ -51,7 +51,7 @@ detection parameter
 minsize 2000 
 maxsize (height*width)/2)
 random 10 
-output region 10
+output region 15
 
 
-![image](https://github.com/ga544523/image-detection/blob/master/detection3.PNG?raw=true)
+![image](https://github.com/ga544523/image-detection/blob/master/detection4.PNG?raw=true)
