@@ -1,7 +1,10 @@
-Most of my ideas reference from J. R. R. Uijlings et al., Selective Search for Object Recognition, IJCV, 2013
+Most of my ideas reference from [J. R. R. Uijlings et al., Selective Search for Object Recognition, IJCV, 2013](https://ivi.fnwi.uva.nl/isis/publications/bibtexbrowser.php?key=UijlingsIJCV2013&bib=all.bib)
+
 
 
 To do optimization
+
+
 1.neighboring region preprocess
 2.remove from main function
 
