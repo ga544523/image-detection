@@ -54,4 +54,4 @@ random 10
 output region 15
 
 
-![image](https://github.com/ga544523/image-detection/blob/master/detection4.PNG?raw=true)
+![image](https://github.com/ga544523/image-detection/blob/master/detection5.PNG?raw=true)
