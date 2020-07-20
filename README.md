@@ -17,6 +17,7 @@ k=50
 minsize 2000
 GaussianBlur 3x3 sigma 1
 
+
 detection parameters
 minsize 20000
 maxsize (height*width)/2)
@@ -50,7 +51,7 @@ segment parameters
 k=50 minsize 1000 GaussianBlur 3x3 sigma 1
 
 
-detection parameter s
+detection parameters
 minsize 2000 
 maxsize (height*width)/2)
 random 10 
@@ -58,3 +59,5 @@ output region 15
 
 
 ![image](https://github.com/ga544523/image-detection/blob/master/detection5.PNG?raw=true)
+
+
